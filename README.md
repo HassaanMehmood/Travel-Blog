@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ### `npm i`
 
-It will download the all necessary modules
+It will download the all necessary modules.
 
 ### `npm start`
 
@@ -19,6 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 You may also see backend response error on console in inspector
 
 # Travelog
+
+Home Page
 
 ![Web](pic/1.png)
 
