@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 You may also see backend response error on console in inspector
 
-# Basic Amazone Clone
+# Travelog
 
 ![Web](pic/1.png)
 
