@@ -1,0 +1,54 @@
+.budget-planner {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.budget-planner h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.budget-planner .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.budget-planner .col-md-6 {
+  flex: 1;
+  min-width: 300px;
+  margin: 10px;
+}
+
+.budget-planner label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.budget-planner .form-control {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.budget-planner input[type="range"] {
+  width: 100%;
+}
+
+.budget-planner .estimated-cost {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.budget-planner .estimated-cost h3 {
+  font-size: 24px;
+  color: #28a745;
+}

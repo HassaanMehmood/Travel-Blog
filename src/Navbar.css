@@ -1,0 +1,53 @@
+.navbar-brand img {
+  width: 90px; /* Adjust the width as needed */
+  height: 50px; /* Adjust the height as needed */
+  border-radius: 2px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand span {
+  font-size: 1.5rem; /* Adjust the font size as needed */
+  font-weight: bold; /* Make the text bold */
+  color: #333; /* Adjust the color as needed */
+  margin-left: 10px; /* Add space between the logo and the text */
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  background-color: #007bff;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin-left: 20px;
+}
+
+.navbar-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: #ffeb3b;
+}

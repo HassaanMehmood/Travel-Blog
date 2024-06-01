@@ -1,0 +1,16 @@
+.quiz-management {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card-title {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+}

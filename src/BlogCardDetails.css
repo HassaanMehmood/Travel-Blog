@@ -1,0 +1,61 @@
+.container-grey-background {
+  background-color: #d6d7fc;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.img-fluid {
+  height: 320px;
+  width: 50%;
+  object-fit: auto;
+  margin-bottom: 20px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 24px;
+  padding: 50px;
+}
+
+.comments-section {
+  margin-top: 20px;
+}
+
+.comments-section h3 {
+  margin-bottom: 20px;
+}
+
+.comments-section textarea {
+  margin-bottom: 10px;
+}
+
+.btn-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  font-size: 1rem;
+}
+
+.btn-link .fa-heart,
+.btn-link .fa-comment {
+  margin-right: 5px;
+}
+
+.border {
+  border: 1px solid #dee2e6;
+}
+
+.p-2 {
+  padding: 10px;
+}
+
+.rounded {
+  border-radius: 5px;
+}
+
+.mb-2 {
+  margin-bottom: 10px;
+}

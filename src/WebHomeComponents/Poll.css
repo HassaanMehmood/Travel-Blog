@@ -1,0 +1,89 @@
+.poll-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.create-poll,
+.vote-section {
+  margin-bottom: 40px;
+}
+
+.create-poll h2,
+.vote-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.option-input {
+  margin-bottom: 10px;
+}
+
+.new-option {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+.poll {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.poll h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.results {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.login-prompt {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login-prompt h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.login-prompt p {
+  font-size: 16px;
+}

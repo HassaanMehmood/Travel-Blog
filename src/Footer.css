@@ -1,0 +1,55 @@
+/* Custom styles for the footer */
+.foot-panel-1 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.foot-panel-2 {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.foot-panel-2 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.foot-panel-2 p {
+    font-weight: bold;
+}
+
+.foot-panel-2 a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    margin: 5px 0;
+}
+
+.foot-panel-2 a:hover {
+    text-decoration: underline;
+}
+
+.foot-panel-3 {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
+
+.copyright {
+    margin-bottom: 10px;
+}
+
+.footer-icons .footer-icon {
+    margin: 0 10px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.footer-icons .footer-icon:hover {
+    color: #007bff;
+}
+
+.contact p {
+    font-weight: bold;
+    margin-top: 10px;
+}

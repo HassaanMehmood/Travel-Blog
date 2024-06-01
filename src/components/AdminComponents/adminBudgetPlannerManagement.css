@@ -1,0 +1,66 @@
+.budget-planner-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.budget-planner-container h2,
+.budget-planner-container h3 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.budget-planner-container .form-control {
+  margin-bottom: 10px;
+}
+
+.budget-planner-container .card {
+  margin-bottom: 10px;
+}
+
+.budget-planner-container .card-header {
+  background-color: #3ca04d;
+  color: white;
+  padding: 5px;
+  border-radius: 4px 4px 0 0;
+}
+
+.budget-planner-container .card-body {
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 0 0 4px 4px;
+}
+
+.budget-planner-container .input-group {
+  display: flex;
+  gap: 10px;
+}
+
+.budget-planner-container .btn {
+  margin-top: 10px;
+}
+
+.budget-planner-container .city-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.budget-planner-container .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+}
+
+.budget-planner-container .list-group-item span {
+  font-weight: bold;
+}
+
+.budget-planner-container .list-group-item .btn {
+  padding: 5px 10px;
+}

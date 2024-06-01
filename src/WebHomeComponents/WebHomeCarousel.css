@@ -1,0 +1,53 @@
+/* Card.css */
+.carousel {
+  height: 750px; /* Set your desired height */
+  width: 100%; /* Ensure it takes full width */
+  margin: auto; /* Center the carousel */
+  position: relative;
+}
+
+.carousel-inner {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-item {
+  height: 100%; /* Ensure each item takes full height */
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 81%;
+  object-fit: cover; /* Ensure image covers the container without stretching */
+}
+
+.carousel-caption {
+  position: absolute;
+  bottom: 160px; /* Position button at the bottom */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Ensure visibility */
+}
+
+.explore-button {
+  background-color: lightcoral;
+  color: white;
+  font-size: 22px;
+  font: bolder;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  z-index: 9999;
+  display: inline-block; /* Ensure it is an inline-block element */
+}
+
+.explore-button:hover {
+  background-color: #ff7f50;
+  color: white;
+}
+
+.carousel-caption {
+  background-color: transparent;
+}

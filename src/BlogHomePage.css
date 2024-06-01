@@ -1,0 +1,18 @@
+.container-grey-background {
+  background-color: #d6d7fc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 24px;
+  padding: 50px;
+}
+
+.error {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+  padding: 20px;
+}

@@ -1,0 +1,12 @@
+.container-grey-background {
+  /* background-color: #dad7cf; Light grey background */
+  background-color: #d6d7fc;
+
+  padding: 20px; /* Optional padding for aesthetics */
+  margin-top: 20px; /* Adjust the value as needed */
+  margin-bottom: 20px; /* Adjust the value as needed */
+  /* background-image: url("../../public/background.jpg"); Replace 'path_to_your_image.jpg' with the path to your background image */
+  /* background-size: cover; Ensure the background image covers the entire container */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+}
