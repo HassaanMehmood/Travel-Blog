@@ -63,7 +63,7 @@ All Users Blog Home Page
 
 ![Web](pic/14.png)
 
-Blog Details
+Blog Details Page
 
 ![Web](pic/15.png)
 
