@@ -30,6 +30,7 @@ Home Page
 ![Web](pic/4.png)
 
 Explore Page
+
 ![Web](pic/5.png)
 
 ![Web](pic/6.png)
@@ -48,14 +49,20 @@ User Home Page
 
 ![Web](pic/10.png)
 
+Edit User Details Page 
+
 ![Web](pic/11.1.png)
 
+Add Blog Post Page
 
 ![Web](pic/12.png)
 
+All Users Blog Home Page
 ![Web](pic/13.png)
 
 ![Web](pic/14.png)
+
+Blog Details
 
 ![Web](pic/15.png)
 
