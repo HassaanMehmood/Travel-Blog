@@ -1,4 +1,3 @@
-
 # Travelog 
 
 It contains only Frontend.
@@ -30,19 +29,27 @@ Home Page
 
 ![Web](pic/4.png)
 
+Explore Page
 ![Web](pic/5.png)
 
 ![Web](pic/6.png)
 
 ![Web](pic/7.png)
 
+Sign Up Page
+
 ![Web](pic/8.png)
 
+Sign In Page
+
 ![Web](pic/9.png)
+
+User Home Page
 
 ![Web](pic/10.png)
 
 ![Web](pic/11.1.png)
+
 
 ![Web](pic/12.png)
 
