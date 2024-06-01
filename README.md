@@ -15,7 +15,7 @@ It will download the all necessary modules.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You may also see backend response error on console in inspector
+You may also see backend response error on console in inspector.
 
 # Travelog
 
@@ -58,6 +58,7 @@ Add Blog Post Page
 ![Web](pic/12.png)
 
 All Users Blog Home Page
+
 ![Web](pic/13.png)
 
 ![Web](pic/14.png)
@@ -66,15 +67,23 @@ Blog Details
 
 ![Web](pic/15.png)
 
+Admin Home Page
+
 ![Web](pic/16.png)
 
 ![Web](pic/17.png)
 
+Admin Blog Management Page
+
 ![Web](pic/18.png)
+
+Admin Quiz Management Page
 
 ![Web](pic/19.png)
 
 ![Web](pic/20.png)
+
+Admin City Tour Calculator Page
 
 ![Web](pic/21.png)
 
