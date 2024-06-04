@@ -4,6 +4,29 @@ It contains only Frontend.
 
 For complete project with Backend, contact me on this email: hassaanmahmood851@gmail.com
 
+### `Project Description:`
+
+The platform includes the following features:
+
+User Functionality:
+  - Users can post travel blogs, which are stored in MongoDB and fetched as needed.
+  - Users can add comments to posts, with data managed in MongoDB.
+  - Users can like or dislike posts, with interactions saved in MongoDB.
+  - Users can create polls, which are stored and retrieved from MongoDB.
+  - Users can manage their personal data, stored securely in MongoDB.
+
+Admin Functionality:
+  - Admins can delete user posts, with changes reflected in MongoDB.
+  - Admins can delete user accounts, with user data managed in MongoDB.
+  - Admins can search users by name, utilizing MongoDB queries.
+
+Additional Features:
+  - A travel quiz for users to engage with, with data managed in MongoDB.
+  - A city budget calculator to help users plan their trips.
+  - Proper user authentication using JWT tokens for secure access.
+  - Full responsiveness to ensure a seamless experience on all devices.
+
+All primary functionalities are built using reusable React components to ensure a consistent and maintainable codebase.
 In the project directory, you can run:
 
 ### `npm i`
