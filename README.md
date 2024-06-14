@@ -2,8 +2,6 @@
 
 It contains only Frontend.
 
-For complete project with Backend, contact me on this email: hassaanmahmood851@gmail.com
-
 ### `Project Description:`
 
 The platform includes the following features:
